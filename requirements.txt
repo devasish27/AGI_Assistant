@@ -1,0 +1,11 @@
+vosk==0.3.45
+opencv-python==4.7.0.72
+numpy==1.24.4
+sounddevice==0.4.6
+pytesseract==0.3.10
+mss==8.0.1
+pyautogui==0.9.53
+python-dotenv==1.0.0
+pyinstaller==6.16.0
+pyinstaller-hooks-contrib==2025.9
+Pillow==10.0.1
