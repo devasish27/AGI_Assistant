@@ -1,0 +1,10 @@
+{
+    "timestamp": "20251028_121755",
+    "audio_text": "open excel",
+    "screen_text_samples": ["Microsoft Excel - Book1"],
+    "detected_actions": [
+        {"action": "Opened Excel", "source": "audio"},
+        {"action": "Interacted with screen", "source": "ocr"}
+    ],
+    "final_action": "Opened Excel"
+}
