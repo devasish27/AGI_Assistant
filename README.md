@@ -1,6 +1,6 @@
 ## 📘 **README.md**
 
-```markdown
+
 # 🤖AGI Assistant: Voice-Controlled Intelligent Desktop Automation System
 
 ## 🧩 Overview
@@ -35,31 +35,48 @@ This project combines **speech recognition**, **OCR**, and **desktop automation*
 ---
 
 ## 🧩 Project Structure
-```
+
 
 AGI_Assistant1/
+
 ├── src/
 │   ├── main.py                # Main entry point
+
 │   ├── summarizer.py          # Speech + OCR summarization
+
 │   ├── automation_manager.py  # Executes detected automation
+
 │   ├── storage_manager.py     # Handles data/session management
+
 │   ├── recorder.py            # Audio & screen recording
+
 │   └── ...
+
 │
+
 ├── models/
+
 │   └── vosk_model/            # Vosk speech recognition model files
+
 │
 ├── config/
+
 │   └── .env                   # Optional configuration (paths, duration, etc.)
+
 │
+
 ├── data/                      # Saved session recordings and summaries
+
 │   └── session_YYYYMMDD_HHMMSS/
 │
+
 ├── requirements.txt
+
 ├── README.md
+
 └── AGI_Assistant.exe          # (Optional) Built executable
 
-````
+
 
 ---
 
